@@ -39,9 +39,13 @@ The goal is to explore:
 - Jupyter Notebook
 
 -  Author
-Agu Michael
-Aspiring Data Scientist | Focus: Health & Finance Prediction
-www.linkedin.com/in/michael-john-agu-9974361a5
+-  Agu Michael
+-  Aspiring Data Scientist | Focus: Health & Finance Prediction
+-  www.linkedin.com/in/michael-john-agu-9974361a5
+-  Feedback
+-  Feel free to open an issue or submit a pull request if you have suggestions or improvements!
+  
 
-   Feedback
-Feel free to open an issue or submit a pull request if you have suggestions or improvements!
+
+
+  
