@@ -38,11 +38,11 @@ The goal is to explore:
 - Python (Pandas, Seaborn)
 - Jupyter Notebook
 
--  Author
+-  **Author**
 -  Agu Michael
 -  Aspiring Data Scientist | Focus: Health & Finance Prediction
 -  www.linkedin.com/in/michael-john-agu-9974361a5
--  Feedback
+-  **Feedback**
 -  Feel free to open an issue or submit a pull request if you have suggestions or improvements!
   
 
